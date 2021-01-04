@@ -4,7 +4,7 @@ Google helps you to find Vulnerable Websites that Indexed in Google Search Resul
 ****
 In this articles I made you can read all about Google Dorks:
 
-![Screenshot](banner_dork1.png)
+![Screenshot](DORKS.png )
 ****
 
 # Install Dork List -
