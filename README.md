@@ -9,7 +9,7 @@ In this articles I made you can read all about Google Dorks:
 
 # Install Dork List -
 
-sudo git clone https://github.com/BullsEye0/google_dork_list.git
+sudo git clone https://github.com/4hs4n/G-Dorks-by-4HS4N.git
 
 cd google_dork_list
 
